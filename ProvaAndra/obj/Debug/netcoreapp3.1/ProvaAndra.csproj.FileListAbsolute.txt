@@ -1,0 +1,4 @@
+C:\Users\andra\source\repos\ProvaAndra\ProvaAndra\obj\Debug\netcoreapp3.1\ProvaAndra.csprojAssemblyReference.cache
+C:\Users\andra\source\repos\ProvaAndra\ProvaAndra\obj\Debug\netcoreapp3.1\ProvaAndra.AssemblyInfoInputs.cache
+C:\Users\andra\source\repos\ProvaAndra\ProvaAndra\obj\Debug\netcoreapp3.1\ProvaAndra.AssemblyInfo.cs
+C:\Users\andra\source\repos\ProvaAndra\ProvaAndra\obj\Debug\netcoreapp3.1\ProvaAndra.csproj.CoreCompileInputs.cache
